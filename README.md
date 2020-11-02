@@ -1,4 +1,4 @@
-Completed foolowng tasks:
+Completed following tasks:
 1. Download Data File from https://archive.ics.uci.edu/ml/datasets/Character+Trajectories
 2. Write a Python script to read and plot the data
 3. Visualize one character of each class using your script.
